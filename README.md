@@ -6,7 +6,7 @@
 [![Redux](https://img.shields.io/badge/Redux-2.2.1-purple?style=flat-square&logo=redux)](https://redux.js.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-QualiBytesShop is a modern, full-stack e-commerce platform built with Next.js 14, TypeScript, and MongoDB. It features a beautiful UI with Tailwind CSS, secure authentication, real-time cart updates, and a seamless shopping experience.
+QBShop is a modern, full-stack e-commerce platform built with Next.js 14, TypeScript, and MongoDB. It features a beautiful UI with Tailwind CSS, secure authentication, real-time cart updates, and a seamless shopping experience.
 
 ## ✨ Features
 
@@ -22,7 +22,7 @@ QualiBytesShop is a modern, full-stack e-commerce platform built with Next.js 14
 
 ## 🏗️ Architecture
 
-QualiBytesShop follows a three-tier architecture pattern:
+QBShop follows a three-tier architecture pattern:
 
 ### 1. Presentation Tier (Frontend)
 - Next.js React Components
